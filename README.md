@@ -13,9 +13,9 @@
 
 - ⚡ Python **NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib, SciPy**
 
-- ⚡ R PROGRAMMING **Base R library, visualization technique, Data Analysis**
+- ⚡ R PROGRAMMING **Base R library, visualization technique, Data Analysis and also statistical approach like: Regression, ANOVA Testing, Simulation etc.**
 
-- ⚡SPSS, SAS **Statistical technique)**
+- ⚡SPSS, SAS **(Statistical technique)**
 
 - 📫 How to reach me **glshlc97@gmail.com**
 
