@@ -3,9 +3,9 @@
 <h1 align="center"> Hi there 👋, I'm Gulsah KILIC</h1>
 <h3 align="center">A passionate Data Scientist from Turkey</h3>
 
-- 💪🏻 I'm **Data Scientist** and **Data Analyst**
+- 💪🏻 I'm **Data Scientist** 
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science** 
 
 - 🌱 I’m currently learning Python and machine learning techniques and deep learning techniques
 
@@ -15,7 +15,7 @@
 
 - ⚡ R PROGRAMMING **Base R library, visualization technique, Data Analysis**
 
-- ⚡SPSS **Sttaistical technique)**
+- ⚡SPSS, SAS **Statistical technique)**
 
 - 📫 How to reach me **glshlc97@gmail.com**
 
